@@ -16,7 +16,7 @@ a {
 }
 
 a:hover {
-    background:#bbbbbc;;
+    background-color: #bfbaca99;
     border-radius: 10px;
     color: black;
 }
@@ -41,6 +41,7 @@ a:hover {
     display: flex;
     list-style: none;
     gap: .5rem;
+    background-color: #261944;
 }
 
 #menu a {
